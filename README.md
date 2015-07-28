@@ -1,5 +1,10 @@
 # PDF Export of PGP Survey Questions
 
+## Quickstart
+Got to the <a href="./Surveys">Surveys</a> folder above.
+
+## About
+
 Currently, the Harvard Personal Genome Project website provides a CSV export of the public results for each survey. While these CSVs have headers, the list of possible answers is not available.
 
 As a temporary quickfix, I printed out to PDF the 13 surveys with publicly available results, as a temporary dump of both the survey questions and answer choices. Google Forms has a nice (css? javascript?) ctrl-p function. When you hit "ctrl-p" on the editable version of the form, it prints out a form you could fill out by hand (with all the options expanded).
@@ -10,7 +15,7 @@ I have included a CSV export of the responses as well (the filenames include a t
 
 To make it easy to cross-reference the survey questions and the survey responses, I prefixed each file with the "PGP HMS Google Survey" number. These indices can also be found in the URL in the table below. For instance, Blood is marked with `[08]`.
 
-# Todo
+## Todo
 
 * Add these survey questions directly to the Tapestry website (https://my.pgp-hms.org/google_surveys), alongside the responses which are already available on there.
 * Write a google script to allow import and export in something easy to parse (for instance, markdown).

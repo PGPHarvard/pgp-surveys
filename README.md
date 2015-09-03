@@ -5,12 +5,12 @@ Got to the <a href="./Surveys">Surveys</a> folder above.
 
 ## To add a new survey to repository
 
-Git clone this repository.
-Use Google Chrome or Chromium browser. Login to pgp survey google account. Go to https://drive.google.com/drive/#, open the form in question (NOT the google spreadsheet, NOT the "live form"), and go to File>Print. "Save as PDF". The name should be based on the # and the name in https://my.pgp-hms.org/google_surveys. e.g. "[19] PGP Basic Phenotypes Survey 2015 [Form].pdf".
-Add the file to the /surveys folder
-In this readme file, update the total number of surveys, then make a new table with the latest number of responses. For help formatting the table, use http://www.tablesgenerator.com/markdown_tables
-Download the CSV response file and put in the /responses folder
-Add commit push changes (or fork and submit a pull request).
+* Git clone this repository.
+* Use Google Chrome or Chromium browser. Login to pgp survey google account. Go to https://drive.google.com/drive/#, open the form in question (NOT the google spreadsheet, NOT the "live form"), and go to File>Print. "Save as PDF". The name should be based on the # and the name in https://my.pgp-hms.org/google_surveys. e.g. "[19] PGP Basic Phenotypes Survey 2015 [Form].pdf".
+* Add the file to the /surveys folder
+* In this readme file, update the total number of surveys, then make a new table with the latest number of responses. For help formatting the table, use http://www.tablesgenerator.com/markdown_tables
+* Download the CSV response file and put in the /responses folder
+* Add commit push changes (or fork and submit a pull request).
 
 ## About
 

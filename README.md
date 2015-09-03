@@ -30,7 +30,7 @@ To make it easy to cross-reference the survey questions and the survey responses
 * Write a google script to allow import and export in something easy to parse (for instance, markdown).
 * Write a script to automate updating of this repository
 
-# Infoh
+# Info
 
 ## Reference 
 
@@ -56,8 +56,8 @@ Total Number of Surveys: 14
 
 ### Dump, 2015-09-03 20:46:23 UTC 
 
+| URL # | Name                                                                           | Public Link                              | Responses | Participants |
 | 19    | PGP Basic Phenotypes Survey 2015                                               | https://my.pgp-hms.org/google_surveys/19 | 259                                | 255                                     |
-
 
 ## Contact
 
